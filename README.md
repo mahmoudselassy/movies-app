@@ -16,7 +16,7 @@ This Movie Search and Rating App is a React application built with TypeScript. I
 
 ## Demo
 
-Check out the live demo of the Movie Search and Rating App hosted on Netlify: [Movie Search App Demo](https://your-app-demo.netlify.app)
+Check out the live demo of the Movie Search and Rating App hosted on Netlify: [Movie Search App Demo](https://unique-pika-e584bc.netlify.app/)
 
 ## Getting Started
 
